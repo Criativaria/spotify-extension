@@ -1,0 +1,87 @@
+{
+  "timestamp": 1763945294137,
+  "progress": 71671,
+  "isPlaying": true,
+  "currentPlayingType": "track",
+  "item": {
+    "artists": [
+      {
+        "externalURL": {
+          "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        },
+        "id": "7Ln80lUS6He07XvHI8qqHH",
+        "name": "Arctic Monkeys",
+        "type": "artist",
+        "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+      }
+    ],
+    "availableMarkets": [],
+    "discNumber": 1,
+    "duration": 183956,
+    "explicit": false,
+    "externalURL": {
+      "spotify": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+    },
+    "id": "5XeFesFbtLpXzIVDNQP22n",
+    "isLocal": false,
+    "name": "I Wanna Be Yours",
+    "previewURL": null,
+    "restrictions": [],
+    "trackNumber": 12,
+    "type": "track",
+    "uri": "spotify:track:5XeFesFbtLpXzIVDNQP22n",
+    "album": {
+      "artists": [
+        {
+          "externalURL": {
+            "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+          },
+          "id": "7Ln80lUS6He07XvHI8qqHH",
+          "name": "Arctic Monkeys",
+          "type": "artist",
+          "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "albumType": "album",
+      "availableMarkets": [],
+      "externalURL": {
+        "spotify": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "id": "78bpIziExqiI9qztvNFlQu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024ae1c4c5c45aabe565499163",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514ae1c4c5c45aabe565499163",
+          "width": 64
+        }
+      ],
+      "name": "AM",
+      "releaseDate": "2013-09-09",
+      "releaseDatePrecision": "day",
+      "restrictions": [],
+      "totalTracks": 12,
+      "type": "album",
+      "uri": "spotify:album:78bpIziExqiI9qztvNFlQu"
+    },
+    "externalID": { "isrc": "GBCEL1300373" },
+    "popularity": 92
+  },
+  "context": {
+    "externalURL": {
+      "spotify": "https://open.spotify.com/playlist/2ieDuIzaWYvLP7dacKkCCA"
+    },
+    "href": "https://api.spotify.com/v1/playlists/2ieDuIzaWYvLP7dacKkCCA",
+    "type": "playlist",
+    "uri": "spotify:playlist:2ieDuIzaWYvLP7dacKkCCA"
+  }
+}
