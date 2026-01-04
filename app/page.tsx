@@ -124,5 +124,3 @@ export default function Home() {
     )
   );
 }
-//arrumar a animação das esferas
-//mudar a fonte
